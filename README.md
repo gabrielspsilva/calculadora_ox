@@ -18,4 +18,4 @@ e ao meu pai
 por contribuirem com meu conhecimento
 
 ### Projeto final
-![Calculadora](calculadora.png)
+![Calculadora](calculadora (2).png)
