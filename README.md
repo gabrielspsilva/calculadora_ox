@@ -19,3 +19,6 @@ por contribuirem com meu conhecimento
 
 ### Projeto final
 ![Calculadora](calculadora.png)
+
+### Run calculadora (no terminal)
+py main.py
